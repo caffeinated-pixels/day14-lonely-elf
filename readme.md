@@ -6,4 +6,4 @@ The main task was to:
 
 - Write a function to duplicate the elf when the button is clicked.
 
-I also put the elves in 6 column grid layout and included a fade in animation for each elf, because that's what elves like 🧝
+I also limited the total number of elves to 100, put them in 6 column grid layout and included a fade in animation for each elf, because that's what elves like 🧝
