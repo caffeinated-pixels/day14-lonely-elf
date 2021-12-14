@@ -48,6 +48,20 @@ h1 {
 
 .elf {
   font-size: 30px;
+  animation: elfFadeIn 0.75s linear;
+}
+
+@keyframes elfFadeIn {
+  0% {
+    transform: scale(0);
+  }
+
+  95% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
 
 button {
