@@ -31,6 +31,7 @@ body {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   grid-auto-rows: min-content;
+  row-gap: 5px;
   margin: 2em;
   min-width: 250px;
   height: 200px;
